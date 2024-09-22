@@ -1,3 +1,4 @@
+![logo](https://github.com/Harsh-Salunke/Harsh-Salunke/blob/main/WhatsApp%20Image%202024-09-22%20at%2018.20.18_1ac211a2.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Salunke</h1>
 <h3 align="center">Explore, Set Up, and Contribute!</h3>
 
